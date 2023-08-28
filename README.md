@@ -1,17 +1,27 @@
-# Anomalias Visuais e Correções
+# Política de Privacidade do Anomalias Visuais e Correções
 
-Última atualização: 27 de agosto de 2023
+Anomalias Visuais e Correções é um aplicativo Android desenvolvido por [seu nome] (contato: [seu email]). O aplicativo não coleta nenhum tipo de dado do usuário, nem tem login. Portanto, não há informações pessoais que possam ser coletadas ou compartilhadas.
 
-## Descrição
+# Uso de dados
 
-Bem-vindo ao aplicativo **Anomalias Visuais e Correções**. Este aplicativo foi projetado para fornecer informações detalhadas sobre anomalias visuais e suas correções, oferecendo uma experiência educacional e informativa aos usuários.
+O aplicativo não coleta nenhum tipo de dado do usuário.
 
-## Política de Privacidade
+# Compartilhamento de dados
 
-Para garantir a transparência no tratamento de dados sensíveis de usuários e dispositivos, temos uma política de privacidade abrangente. Consulte nossa [Política de Privacidade](link_para_politica_de_privacidade) para obter mais informações sobre como coletamos, usamos e protegemos suas informações pessoais.
+O aplicativo não compartilha nenhum tipo de dado do usuário.
 
-## Contato
+# Menores de 13 anos
 
-Se você tiver alguma dúvida sobre o aplicativo ou questões relacionadas à privacidade, não hesite em nos contatar. Você pode nos alcançar em [seu_email_de_contato@email.com](mailto:seu_email_de_contato@email.com).
+O aplicativo não é destinado a menores de 13 anos.
 
-Agradecemos por escolher o **Anomalias Visuais e Correções** como sua fonte de informações sobre saúde ocular.
+# Segurança de dados
+
+O aplicativo não coleta nenhum tipo de dado do usuário, portanto, não há informações pessoais que possam ser comprometidas.
+
+# Alterações a esta política
+
+Esta política de privacidade pode ser alterada a qualquer momento. A versão mais recente estará sempre disponível neste documento.
+
+# Contato
+
+Se você tiver alguma dúvida sobre esta política de privacidade, entre em contato conosco através do e-mail proftiagocm@gmail.com.
