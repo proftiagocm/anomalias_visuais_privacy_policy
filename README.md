@@ -1,6 +1,6 @@
 # Política de Privacidade do Anomalias Visuais e Correções
 
-Anomalias Visuais e Correções é um aplicativo Android desenvolvido por [seu nome] (contato: [seu email]). O aplicativo não coleta nenhum tipo de dado do usuário, nem tem login. Portanto, não há informações pessoais que possam ser coletadas ou compartilhadas.
+Anomalias Visuais e Correções é um aplicativo Android desenvolvido por Tiago Carvalho Martins (contato: proftiagocm@gmail.com) e Heber Cruz Silva. O aplicativo não coleta nenhum tipo de dado do usuário, nem tem login. Portanto, não há informações pessoais que possam ser coletadas ou compartilhadas.
 
 # Uso de dados
 
